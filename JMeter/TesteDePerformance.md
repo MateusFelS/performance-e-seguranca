@@ -26,7 +26,7 @@
 ### Tabela de Resultados
 <img src="https://github.com/user-attachments/assets/a418bdfe-999c-43eb-b5e4-cfaefa846d25" width="500">
 
-## 📌 Comparação entre os testes
+## Comparação entre os testes
 - **O tempo médio aumentou:** De 2,2s para 3,6s → Isso indica que o servidor está sobrecarregado com mais usuários.
 - **Desvio padrão menor (3059ms → 2599ms):** Ainda há variação nos tempos de resposta, mas parece mais controlado.
 - **Última amostra maior (422ms → 1524ms):** O tempo da última requisição também aumentou, sugerindo que o servidor está demorando mais conforme a carga aumenta.
