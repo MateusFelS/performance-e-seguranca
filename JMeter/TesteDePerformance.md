@@ -8,7 +8,7 @@
 | **Desvio Padrão**  | 3059 ms     | Grande variação no tempo de resposta entre requisições. |
 
 ### Tabela de Resultados
-<img src="https://github.com/user-attachments/assets/c809fb37-0fbb-4306-a9a2-cdac9db29a47" width="300">
+<img src="https://github.com/user-attachments/assets/c809fb37-0fbb-4306-a9a2-cdac9db29a47" width="500">
 
 ---
 
