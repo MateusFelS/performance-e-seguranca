@@ -30,6 +30,8 @@
 | 🟢 **Baixo**  | 2                |
 | 🔵 **Informativo** | 4           |
 
+### Imagem do Gráfico
+
 <img src="https://github.com/user-attachments/assets/46f71167-284b-4b8b-8ae8-852b2f820abb" width="500">
 
 ## Alertas Detalhados
@@ -45,6 +47,8 @@
 | Modern Web Application                                      | 🔵 Informativo | 3                   |
 | Re-examine Cache-control Directives                         | 🔵 Informativo | 4                   |
 | Retrieved from Cache                                        | 🔵 Informativo | 126                 |
+
+### Imagem da Tabela
 
 <img src="https://github.com/user-attachments/assets/dd2ff7a3-5e88-4c91-913e-8f4c5e9ab9ed" width="500">
 
