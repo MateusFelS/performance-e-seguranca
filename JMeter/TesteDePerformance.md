@@ -7,8 +7,9 @@
 | **Média**          | 2223 ms     | Tempo médio de resposta (**2,2 segundos**). |
 | **Desvio Padrão**  | 3059 ms     | Grande variação no tempo de resposta entre requisições. |
 
-### Evidência
-![image](https://github.com/user-attachments/assets/c809fb37-0fbb-4306-a9a2-cdac9db29a47)
+### Tabela de Resultados
+<img src="https://github.com/user-attachments/assets/c809fb37-0fbb-4306-a9a2-cdac9db29a47" width="300" height="200">
+
 
 ---
 
@@ -21,7 +22,7 @@
 | **Média**          | 3632 ms     | Tempo médio de resposta (**3,6 segundos**, aumento em relação ao teste anterior). |
 | **Desvio Padrão**  | 2599 ms     | Ainda há variação, mas menor do que no teste anterior. |
 
-### Evidência
+### Tabela de Resultados
 ![image](https://github.com/user-attachments/assets/a418bdfe-999c-43eb-b5e4-cfaefa846d25)
 
 ## 📌 Comparação entre os testes
