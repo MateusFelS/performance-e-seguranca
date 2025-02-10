@@ -1,4 +1,6 @@
-## 📊 Análise dos Resultados - 100 Usuários
+# Resultados Teste de Performance - DemoBlaze
+
+## Análise dos Resultados - 100 Usuários
 
 | **Métrica**         | **Valor**  | **Significado** |
 |---------------------|------------|----------------|
@@ -12,7 +14,7 @@
 
 ---
 
-## 📊 Análise dos Resultados - 500 Usuários
+## Análise dos Resultados - 500 Usuários
 
 | **Métrica**         | **Valor**  | **Significado** |
 |---------------------|------------|----------------|
@@ -22,7 +24,7 @@
 | **Desvio Padrão**  | 2599 ms     | Ainda há variação, mas menor do que no teste anterior. |
 
 ### Tabela de Resultados
-![image](https://github.com/user-attachments/assets/a418bdfe-999c-43eb-b5e4-cfaefa846d25)
+<img src="https://github.com/user-attachments/assets/a418bdfe-999c-43eb-b5e4-cfaefa846d25" width="500">
 
 ## 📌 Comparação entre os testes
 - **O tempo médio aumentou:** De 2,2s para 3,6s → Isso indica que o servidor está sobrecarregado com mais usuários.
