@@ -1,4 +1,4 @@
-# Teste de Segurança - DemoBlaze
+# Resultados Teste de Segurança - DemoBlaze
 
 ## Analisando os Principais Problemas
 - CSP (Content Security Policy) Header Not Set
