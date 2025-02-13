@@ -9,11 +9,11 @@ Este projeto tem como objetivo avaliar o desempenho e a segurança do site **Dem
 
 ## Testes Realizados
 
-### Testes de Performance (JMeter)
-Os testes de carga foram configurados para simular diferentes volumes de usuários acessando a aplicação simultaneamente. O objetivo foi analisar o tempo de resposta e a estabilidade do sistema sob demanda crescente.
+- Testes de Performance (JMeter)
+  -Os testes de carga foram configurados para simular diferentes volumes de usuários acessando a aplicação simultaneamente. O objetivo foi analisar o tempo de resposta e a estabilidade do sistema sob demanda crescente.
 
-### Testes de Segurança (OWASP ZAP)
-Foram realizadas varreduras automatizadas para identificar vulnerabilidades como headers ausentes, falhas de segurança em bibliotecas JavaScript e problemas de configuração que podem expor a aplicação a ataques.
+- Testes de Segurança (OWASP ZAP)
+  -Foram realizadas varreduras automatizadas para identificar vulnerabilidades como headers ausentes, falhas de segurança em bibliotecas JavaScript e problemas de configuração que podem expor a aplicação a ataques.
 
 ## Conclusão
 Os testes evidenciaram pontos de melhoria na infraestrutura e segurança do sistema, permitindo a identificação de ajustes necessários para otimizar o desempenho e mitigar riscos.
